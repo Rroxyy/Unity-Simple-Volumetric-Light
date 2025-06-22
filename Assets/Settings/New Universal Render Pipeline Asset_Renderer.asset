@@ -66,11 +66,13 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: d2e7ce6a5536d8e49918de1bc49ec65f, type: 3}
-  m_Name: GrayRenderFeature
+  m_Name: Volumetric
   m_EditorClassIdentifier: 
   m_Active: 1
   useRenderFeature: 1
   renderEvent: 550
   cameraType: 2
   material: {fileID: 2100000, guid: c6d504242da468845aee88c98d476397, type: 2}
-  intensity: 1
+  volumetricLayerMask:
+    serializedVersion: 2
+    m_Bits: 1048576

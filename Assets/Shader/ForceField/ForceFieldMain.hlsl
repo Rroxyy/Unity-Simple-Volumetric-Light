@@ -1,5 +1,5 @@
 ﻿#include "Packages/com.unity.render-pipelines.universal/ShaderLibrary/Core.hlsl"
-#include "Assets/Shader/Noise.hlsl"
+#include "Assets/Shader/Library/Noise.hlsl"
 
 struct vertex
 {

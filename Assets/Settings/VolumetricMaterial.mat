@@ -106,12 +106,12 @@ Material:
     - _AlphaToMask: 0
     - _Blend: 0
     - _BlendModePreserveSpecular: 1
-    - _BlurScale: 85.6
-    - _BlurStrength: 3.45
+    - _BlurScale: -46.2
+    - _BlurStrength: 8.32
     - _BumpScale: 1
     - _ClearCoatMask: 0
     - _ClearCoatSmoothness: 0
-    - _Contrast: 170
+    - _Contrast: 46.34
     - _Cull: 2
     - _Cutoff: 0.5
     - _DetailAlbedoMapScale: 1
@@ -123,32 +123,32 @@ Material:
     - _GlossMapScale: 0
     - _Glossiness: 0
     - _GlossyReflections: 0
-    - _IncomingLoss: 4.51
-    - _Intensity: 3.8
+    - _IncomingLoss: 0.14
+    - _Intensity: 5.39
     - _LightCosHalfAngle: 83.2
     - _MaxDistance: 34.6
     - _Metallic: 0
     - _OcclusionStrength: 1
     - _Parallax: 0.005
-    - _Phase: 0.78
+    - _Phase: 0.79
     - _QueueOffset: 0
-    - _RandomNumber: 121.98
+    - _RandomNumber: 46
     - _ReceiveShadows: 1
     - _Smoothness: 0.5
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 1
     - _SrcBlendAlpha: 1
-    - _StepTime: 96.28
+    - _StepTime: 30
     - _Surface: 0
-    - _Test: 0.36
+    - _Test: 27.1
     - _WorkflowMode: 1
     - _ZWrite: 1
     m_Colors:
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _LightColor: {r: 0.7490196, g: 0.64302623, b: 0.64302623, a: 1}
-    - _LightPos: {r: -21.59, g: 17.34, b: 0, a: 0}
+    - _LightColor: {r: 3.3166218, g: 3.268304, b: 3.5471697, a: 1}
+    - _LightPos: {r: -36.6, g: 29.64, b: -2.75, a: 0}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
   m_BuildTextureStacks: []
